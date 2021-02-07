@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Rui Li</title>
+    <link>https://ruili3.github.io/publication-type/2/</link>
+      <atom:link href="https://ruili3.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jan 2019 09:57:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruili3.github.io/images/icon_hu96a6222dada1adccd9e88c2f035c31f6_23489_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://ruili3.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus</title>
+      <link>https://ruili3.github.io/publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/</link>
+      <pubDate>Tue, 15 Jan 2019 09:57:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/</guid>
+      <description>&lt;div id=&#34;arsac_span&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blind Image Deblurring by Promoting Group Sparsity</title>
+      <link>https://ruili3.github.io/publication/blind-image-deblurring-by-promoting-group-sparsity/</link>
+      <pubDate>Fri, 01 Jun 2018 12:57:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/blind-image-deblurring-by-promoting-group-sparsity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

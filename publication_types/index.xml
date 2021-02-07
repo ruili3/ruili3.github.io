@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Rui Li</title>
+    <link>https://ruili3.github.io/publication_types/</link>
+      <atom:link href="https://ruili3.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 04:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruili3.github.io/images/icon_hu96a6222dada1adccd9e88c2f035c31f6_23489_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://ruili3.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

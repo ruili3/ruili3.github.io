@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Li</title>
+    <link>https://ruili3.github.io/</link>
+      <atom:link href="https://ruili3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruili3.github.io/images/icon_hu96a6222dada1adccd9e88c2f035c31f6_23489_512x512_fill_lanczos_center_2.png</url>
+      <title>Rui Li</title>
+      <link>https://ruili3.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ruili3.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance</title>
+      <link>https://ruili3.github.io/publication/semdepth/</link>
+      <pubDate>Mon, 01 Feb 2021 04:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/semdepth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation</title>
+      <link>https://ruili3.github.io/publication/seedepth/</link>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/seedepth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-guided Depth Estimation</title>
+      <link>https://ruili3.github.io/project/semanticdepth/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/project/semanticdepth/</guid>
+      <description>&lt;p&gt;Despite the impressive results of self-supervised depth estimation, most current methods leverage only image representations to model image depth, and seldom consider how the semantic information can be utilized. Image semantics are, however, highly coupled with image preferences and scene depth. Therefore it’s necessary to introduce image semantics to assist in the estimation of depth.&lt;/p&gt;
+&lt;p&gt;In this project, we enhance the depth estimation by leveraing the advantages of semantic segmentation task. The semantic branch helps to improve the depth estimation in two aspects. First, the semantic segmentation network generates contextual feature representations, which can be utilized to improve depth representation. Meanwhile, the semantic segmentation provides object masks, with which the depth borders can be further refined. In this project, we explore the feature-level representation enhancement as well as the mask-based depth border refinement.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Related Papers&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/SEEDepth/&#34;&gt;Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/SemDepth/&#34;&gt;Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints</title>
+      <link>https://ruili3.github.io/publication/depthdce/</link>
+      <pubDate>Mon, 12 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/depthdce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Self-supervised Depth Estimation</title>
+      <link>https://ruili3.github.io/project/robustdepth/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/project/robustdepth/</guid>
+      <description>&lt;p&gt;Self-supervised depth estimation enables to train the network by video sequences, which do not require groundtruth images. However, self-supervised methods are less robust especially under complicated real world dynamic scenes. To be more precise, 1) when trained on images with obvious brightness change, conventional photometric loss will mainly generate the false supervisory signals caused by the brightness difference, instead of generating the right signals caused by image synthesis error, 2) the pixel-wise image corresponding relations in self-supervised methods do not hold in non-static areas of the image. Thus when trained on images under
+dynamic scenes, false supervisory signals will be produced due to the moving objects such as vehicles or pedestrians, 3) and most self-supervised methods estimate ego-motions only from image pairs, which lead to unstable estimations due to the absence of cross-frame information.&lt;/p&gt;
+&lt;p&gt;In this project, we aim to improve the robustness of self-supervised depth estimation by proposing a set of robust constraints during network traning. The gradient-based photometric loss is proposed to restrain the false supervisory signals generated by brightness changes. A combined selective mask (including the inter-loss mask and the gradient-loss mask) is proposed to filter out unreliable regions containing moving objects. A robust cycle-consistency constraint is proposed, which implicitly facilitate better depth estimation by constraining motion consistency. Experiments show the method outperforms the state-of-the-arts on KITTI dataset.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Related Papers&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/depthDCE/&#34;&gt;Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust and Accurate Hybrid Structure-From-Motion</title>
+      <link>https://ruili3.github.io/publication/robust-and-accurate-hybrid-structure-from-motion/</link>
+      <pubDate>Tue, 15 Oct 2019 01:41:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/robust-and-accurate-hybrid-structure-from-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ruili3.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus</title>
+      <link>https://ruili3.github.io/publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/</link>
+      <pubDate>Tue, 15 Jan 2019 09:57:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/</guid>
+      <description>&lt;div id=&#34;arsac_span&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficient and Robust Structure-from-Motion</title>
+      <link>https://ruili3.github.io/project/robustsfm/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/project/robustsfm/</guid>
+      <description>&lt;p&gt;Structure-from-motion (SFM) is a longstanding problem in 3D computer vision, it aims to recover 3D structure and camera poses given a set of images as input. Estimating 3D infomation from 2D data is a highly ambiguous problem. Due to the unsettled issues of feature matching as well as the complex estimation procedures, SfM may failed in some challenging scenarios due the lack of robustness. Moreover, it also brings computation burdens when more robust estimation modules is involved.&lt;/p&gt;
+&lt;p&gt;In this project, we aim to address the challenges of structure-from-motion (SFM) in two aspects. Firstly, we focus on the outlier removal procedure in the SFM pipeline, we propose an efficient variant of RANSAC which adaptively incorporate new samples into estimation to improve the convergence speed of robust estimation. Then, we improve the conventional SFM by integrating the advantages of both incremental and global SFM, leading to a new type of robust and accruate hybrid SFM pipeline. Experimental results show the effectiveness of the proposed methods.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Related Papers&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/&#34;&gt;ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/robust-and-accurate-hybrid-structure-from-motion/&#34;&gt;Robust and Accurate Hybrid Structure-From-Motion&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blind Image Deblurring by Promoting Group Sparsity</title>
+      <link>https://ruili3.github.io/publication/blind-image-deblurring-by-promoting-group-sparsity/</link>
+      <pubDate>Fri, 01 Jun 2018 12:57:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/blind-image-deblurring-by-promoting-group-sparsity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

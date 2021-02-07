@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ruili3.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication-type/1/</loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/semdepth/</loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication_types/</loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/</loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-15T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/seedepth/</loc>
+    <lastmod>2020-12-15T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/project/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/project/semanticdepth/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/depthdce/</loc>
+    <lastmod>2020-10-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/project/robustdepth/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-10-15T01:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/robust-and-accurate-hybrid-structure-from-motion/</loc>
+    <lastmod>2019-10-15T01:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-10-15T01:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication-type/2/</loc>
+    <lastmod>2019-01-15T09:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/</loc>
+    <lastmod>2019-01-15T09:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-01-15T09:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/project/robustsfm/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/publication/blind-image-deblurring-by-promoting-group-sparsity/</loc>
+    <lastmod>2018-06-01T12:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>https://ruili3.github.io/tags/</loc>
+  </url>
+  
+</urlset>

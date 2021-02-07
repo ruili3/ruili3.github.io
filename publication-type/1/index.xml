@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Rui Li</title>
+    <link>https://ruili3.github.io/publication-type/1/</link>
+      <atom:link href="https://ruili3.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 04:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruili3.github.io/images/icon_hu96a6222dada1adccd9e88c2f035c31f6_23489_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://ruili3.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance</title>
+      <link>https://ruili3.github.io/publication/semdepth/</link>
+      <pubDate>Mon, 01 Feb 2021 04:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/semdepth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation</title>
+      <link>https://ruili3.github.io/publication/seedepth/</link>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/seedepth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints</title>
+      <link>https://ruili3.github.io/publication/depthdce/</link>
+      <pubDate>Mon, 12 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/depthdce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and Accurate Hybrid Structure-From-Motion</title>
+      <link>https://ruili3.github.io/publication/robust-and-accurate-hybrid-structure-from-motion/</link>
+      <pubDate>Tue, 15 Oct 2019 01:41:00 +0000</pubDate>
+      <guid>https://ruili3.github.io/publication/robust-and-accurate-hybrid-structure-from-motion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
