@@ -22,8 +22,8 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Related Papers&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/SEEDepth/&#34;&gt;Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/SemDepth/&#34;&gt;Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/seedepth/&#34;&gt;Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/semdepth/&#34;&gt;Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </description>
@@ -40,7 +40,7 @@ dynamic scenes, false supervisory signals will be produced due to the moving obj
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Related Papers&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/depthDCE/&#34;&gt;Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/depthdce/&#34;&gt;Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </description>
